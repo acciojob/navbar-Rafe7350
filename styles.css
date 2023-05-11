@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.nav ul li{
+	display:flex;
+	display:inline-block;
+/* 	background-color: #b90e4d; */
+	border:
+}
